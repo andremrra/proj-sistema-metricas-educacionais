@@ -3,7 +3,6 @@
 Liste os artefatos produzidos, com suas localizaçãoes e descrição do conteúdo.
 
 
-* `/data` - Pasta com os dados do projeto
-* `/models` - Pasta com os modelos já induzidos
-* `/results ` - Pasta com os resultados da análise exploratória de dados
+* `/src` - Pasta com o csv de teste utilizado na análise
+* `/video` - Pasta com o vídeo de utilização da ferramenta já induzidos
 
